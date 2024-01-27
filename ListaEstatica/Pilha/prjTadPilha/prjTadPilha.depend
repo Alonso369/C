@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696551652 source:c:\users\alons\faculdade\estruturadedados\listaestatica\pilha\prjtadpilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"itemPilha.h"
+
+1696551678 c:\users\alons\faculdade\estruturadedados\listaestatica\pilha\prjtadpilha\itempilha.h
+
+1696551586 source:c:\users\alons\faculdade\estruturadedados\listaestatica\pilha\prjtadpilha\itempilha.c
+	<stdio.h>
+	<stdlib.h>
+	"itemPilha.h"
+

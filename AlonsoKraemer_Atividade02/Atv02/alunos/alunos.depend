@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697315256 source:c:\users\alons\faculdade\estruturadedados\atividade02paraentregar\atv02\alunos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"maniAlunos.h"
+
+1697313069 c:\users\alons\faculdade\estruturadedados\atividade02paraentregar\atv02\alunos\manialunos.h
+
+1697313069 source:c:\users\alons\faculdade\estruturadedados\atividade02paraentregar\atv02\alunos\manialunos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"maniAlunos.h"
+

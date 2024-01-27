@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604521584 source:d:\_utfpr\disciplinas\estrutura_de_dados\exemplos\projtabelahash_comtratamento_endaberto\projhash_colisaoendaberto\hashendaberto.c
+	<stdlib.h>
+	<stdio.h>
+	"HashEndAberto.h"
+
+1604521259 d:\_utfpr\disciplinas\estrutura_de_dados\exemplos\projtabelahash_comtratamento_endaberto\projhash_colisaoendaberto\hashendaberto.h
+
+1604521579 source:d:\_utfpr\disciplinas\estrutura_de_dados\exemplos\projtabelahash_comtratamento_endaberto\projhash_colisaoendaberto\usahashendaberto.c
+	<stdio.h>
+	<stdlib.h>
+	"HashEndAberto.h"
+

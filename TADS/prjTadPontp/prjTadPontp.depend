@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694039994 source:c:\users\alons\faculdade\estruturadedados\tads\prjtadpontp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+
+1694039719 c:\users\alons\faculdade\estruturadedados\tads\prjtadpontp\ponto.h
+
+1694040027 source:c:\users\alons\faculdade\estruturadedados\tads\prjtadpontp\ponto.c
+	<stdio.h>
+	<stdlib.h>
+	"Ponto.h"
+

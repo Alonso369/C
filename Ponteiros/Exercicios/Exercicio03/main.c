@@ -9,6 +9,5 @@ int main()
     strlen(vet);
 
 
-
     return 0;
 }

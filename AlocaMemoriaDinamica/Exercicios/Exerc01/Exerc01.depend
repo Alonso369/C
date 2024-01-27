@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693532540 source:c:\users\alons\faculdade\estruturadedados\alocamemoriadinamica\exercicios\exerc01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

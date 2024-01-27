@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694040696 source:c:\users\alons\faculdade\estruturadedados\tads\prjtadpessoa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+
+1694040495 c:\users\alons\faculdade\estruturadedados\tads\prjtadpessoa\pessoa.h
+
+1694040517 source:c:\users\alons\faculdade\estruturadedados\tads\prjtadpessoa\pessoa.c
+	<stdio.h>
+	<stdlib.h>
+	"Pessoa.h"
+

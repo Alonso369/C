@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696554506 source:c:\users\alons\faculdade\estruturadedados\listaestatica\listaestatica\itemlista.c
+	<stdio.h>
+	<stdlib.h>
+	"itemLista.h"
+
+1696460952 c:\users\alons\faculdade\estruturadedados\listaestatica\listaestatica\itemlista.h
+
+1696461200 source:c:\users\alons\faculdade\estruturadedados\listaestatica\listaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"itemLista.h"
+

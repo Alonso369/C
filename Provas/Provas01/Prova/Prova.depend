@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695251579 source:c:\users\alons\faculdade\estruturadedados\provas\provas01\prova\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funcoes.h"
+
+1695250654 c:\users\alons\faculdade\estruturadedados\provas\provas01\prova\funcoes.h
+

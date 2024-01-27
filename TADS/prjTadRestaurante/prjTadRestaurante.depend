@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694738157 source:c:\users\alons\faculdade\estruturadedados\tads\prjtadrestaurante\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pedido.h"
+
+1694737408 c:\users\alons\faculdade\estruturadedados\tads\prjtadrestaurante\pedido.h
+
+1694738322 source:c:\users\alons\faculdade\estruturadedados\tads\prjtadrestaurante\pedido.c
+	<stdio.h>
+	<stdlib.h>
+	"Pedido.h"
+	<string.h>
+

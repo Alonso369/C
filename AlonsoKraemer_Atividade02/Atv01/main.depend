@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697223160 source:c:\users\alons\faculdade\estruturadedados\atividade02paraentregar\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BucketList.h"
+
+1697224790 c:\users\alons\faculdade\estruturadedados\atividade02paraentregar\main\bucketlist.h
+
+1697223339 source:c:\users\alons\faculdade\estruturadedados\atividade02paraentregar\main\bucketlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"BucketList.h"
+

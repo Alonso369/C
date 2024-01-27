@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698275043 source:c:\users\alons\faculdade\estruturadedados\listaestatica\algortimorecursivo\prjrecursividade\imprimirvetorcontrario\main.c
+	<stdio.h>
+	<stdlib.h>
+

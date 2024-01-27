@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693436933 source:c:\users\alons\faculdade\estruturadedados\alocamemoriadinamica\exemplos\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

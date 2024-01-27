@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699577127 source:c:\users\alons\faculdade\estruturadedados\alonsokraemer_atividade03\atividade01\exercicio03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
